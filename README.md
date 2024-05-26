@@ -12,6 +12,7 @@ Currently tested and running using a Raspberry Pi 3B.
 
 ## Prerequisites
 
+- Network UPS Tools installed (https://networkupstools.org/docs/user-manual.chunked/_installation_instructions.html)
 - Python 3.x
 - HashiCorp Vault
 - Required Python packages (install using `pip install -r requirements.txt`):
