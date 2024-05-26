@@ -1,0 +1,4 @@
+hvac
+paramiko
+requests
+pyvmomi
